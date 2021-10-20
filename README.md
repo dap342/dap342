@@ -7,7 +7,7 @@
 
 - 🌱 Sto usando **repl.it come host del bot**
 
-- 👨‍💻 Sempre al lavoro per imparare
+- 👨‍💻 Sempre al lavoro per imparare!
 
 
 <h3 align="left">Quello che uso/sto imparando:</h3>
