@@ -1,11 +1,11 @@
-<h1 align="center">Ciao 👋, Sono SaturpediaDev</h1>
+<h1 align="center">Ciao 👋, Sono Blocky</h1>
 <h3 align="center">Una persona qualsiasi che si diverte programmando!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dap342&label=Profile%20views&color=0e75b6&style=flat" alt="dap342" /> </p>
 
-- 🔭 Sto lavorando su **Saturpedia 🪐, un bot di Discord**
+- 🇮🇹 Sono **italiano**
 
-- 🌱 Sto usando **repl.it come host del bot**
+- 🌱 Sto usando **repl.it per hostare i miei bot per Discord**
 
 - 👨‍💻 Sempre al lavoro per imparare!
 
