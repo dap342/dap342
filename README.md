@@ -5,8 +5,6 @@
 
 - 🇮🇹 Sono **italiano**
 
-- 🌱 Sto usando **repl.it per hostare i miei bot per Discord**
-
 - 👨‍💻 Sempre al lavoro per imparare!
 
 
