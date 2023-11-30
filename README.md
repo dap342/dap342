@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=CB69F7&center=true&vCenter=true&width=500&height=70&duration=4000&&lines=Blocky's+World 🌍" alt="Typing SVG" /></a>
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=CB69F7&center=true&vCenter=true&width=500&height=70&duration=4000&&lines=Blocky's+World 🌍" alt="Typing SVG" /></a>
+</h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,java,nodejs,dotnet,c,cs,visualstudio,vscode" /><br>
